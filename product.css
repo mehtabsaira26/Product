@@ -1,0 +1,28 @@
+body{
+   text-align: center;
+}
+section{
+    display: inline-block;
+    width: 300px;
+   
+}
+.hover:hover {
+    border : 2px solid #9e9e9eb5;
+    cursor : pointer;
+}
+
+.s55{
+    height: 200px;
+    width: 200px;
+}
+hr{
+    opacity: 0.4;
+}
+/*.top{
+    margin-top: -13px;
+    
+}*/
+.color{
+    margin-top: -13px;
+    color: #9e9e9d;
+}
